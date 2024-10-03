@@ -1,0 +1,22 @@
+div{
+    display: inline-block;
+     width: 150x;
+     height: 150px;
+     background-color: rgb(39, 140, 180);
+     border: 1px solid black;
+}
+
+#box3{
+    position: fixed;
+}
+
+.wrapper{
+    background-color: yellow;
+    height: 1000px;
+    width: 100vw;
+}
+
+#box6{
+    position:sticky;
+    top: 0px;
+}

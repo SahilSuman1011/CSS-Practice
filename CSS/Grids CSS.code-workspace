@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Grids CSS"
+		},
+		{
+			"path": "parallaxPractice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "parallaxPractice"
+	}
+}
